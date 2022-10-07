@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###  🤔 What i`m learnng: 
+###  ❓ What i`m learnng: 
 ```
 - React Native
 - JS
@@ -8,7 +8,7 @@
 - Html
 - Css
 ```
-### 🤔 What i know: 
+### ❗ What i know: 
 ```
 - HTML
   - Tailwind
