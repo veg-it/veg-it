@@ -23,7 +23,7 @@
 - PHP
 ```
 
-### My CheatSheets:
+### 📃 My CheatSheets:
 https://github.com/veg-it/veg-it/tree/main/cheat-sheets
 
 <!--
