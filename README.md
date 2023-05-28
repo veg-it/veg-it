@@ -1,8 +1,13 @@
+<img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="48">
+
 ### Hi there 👋
 
 ###  ❓ What i`m learnng: 
 ```
 - React Native
+- React
+- Python
+- Typescript
 - JS
 - PHP
 - Html
@@ -23,6 +28,9 @@
 - PHP
 - Java
   - AR
+- Python
+  - Telegram Bots (python-telegram-bot)
+  - Some Backend on Flask
 ```
 
 ### 👨‍🎓 My certificates: 
